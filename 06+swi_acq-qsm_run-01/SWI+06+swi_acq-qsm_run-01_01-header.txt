@@ -1,0 +1,181 @@
+DICOM File: /images/CBI/k70tw9xj/1.3.12.2.1107.5.2.43.166018.2020022414335977313066924.0.0.0/MR.16399.1365
+Object type: ELEMENT LIST
+Object size: 188324
+Group: 0002, Length:      170
+0002 0000        4 [140     ] //              META Group Length// 170
+0002 0001        2 [156     ] //META File Meta Information Version//hex OB: (len 2)01 00 
+0002 0002       26 [166     ] //META Media Stored SOP Class UID//1.2.840.10008.5.1.4.1.1.4
+0002 0003       54 [200     ] //META Media Stored SOP Instance UID//1.3.12.2.1107.5.2.43.166018.2020022414345069010767032
+0002 0010       18 [262     ] //       META Transfer Syntax UID//1.2.840.10008.1.2
+0002 0012       30 [288     ] //  META Implementation Class UID//1.2.840.113654.2.3.1995.3.0.6
+Group: 0008, Length:      892
+0008 0005       10 [326     ] //      ID Specific Character Set//ISO_IR 100
+0008 0008       22 [344     ] //                  ID Image Type//ORIGINAL\PRIMARY\M\ND 
+0008 0012        8 [374     ] //      ID Instance Creation Date//20200224
+0008 0013       14 [390     ] //      ID Instance Creation Time//143452.565000 
+0008 0016       26 [412     ] //               ID SOP Class UID//1.2.840.10008.5.1.4.1.1.4
+0008 0018       54 [446     ] //            ID SOP Instance UID//1.3.12.2.1107.5.2.43.166018.2020022414345069010767032
+0008 0020        8 [508     ] //                  ID Study Date//20200224
+0008 0021        8 [524     ] //                 ID Series Date//20200224
+0008 0022        8 [540     ] //            ID Acquisition Date//20200224
+0008 0023        8 [556     ] //                  ID Image Date//20200224
+0008 0030       14 [572     ] //                  ID Study Time//142549.912000 
+0008 0031       14 [594     ] //                 ID Series Time//143452.563000 
+0008 0032       14 [616     ] //            ID Acquisition Time//143359.407500 
+0008 0033       14 [638     ] //                  ID Image Time//143452.565000 
+0008 0050        8 [660     ] //            ID Accession Number//k70tw9xj
+0008 0060        2 [676     ] //                    ID Modality//MR
+0008 0070        8 [686     ] //                ID Manufacturer//SIEMENS 
+0008 0080       10 [702     ] //            ID Institution Name//NYU - CBI 
+0008 0081       36 [720     ] //         ID Institution Address//Washington Place 6,NYC,NYC,US,10003 
+0008 0090        8 [764     ] //  ID Referring Physician's Name//Velasco 
+0008 1010       10 [780     ] //                ID Station Name//AWP166018 
+0008 1030       16 [798     ] //           ID Study Description//Development^SWI 
+0008 103e       18 [822     ] //          ID Series Description//swi_acq-qsm_run-01
+0008 1040       10 [848     ] //ID Institutional Department Name//Department
+0008 1050        0 [866     ] // ID Performing Physician's Name//
+0008 1070        2 [874     ] //             ID Operator's Name//PV
+0008 1090        6 [884     ] //     ID Manufacturer Model Name//Prisma
+0008 1140      312 [0       ] //   ID Referenced Image Sequence//SEQUENCE
+DCM Dump SEQUENCE{
+Object type: ELEMENT LIST
+Object size: 96
+Group: 0008, Length:       96
+0008 1150       26 [914     ] //    ID Referenced SOP Class UID//1.2.840.10008.5.1.4.1.1.4
+0008 1155       54 [948     ] // ID Referenced SOP Instance UID//1.3.12.2.1107.5.2.43.166018.2020022414294073205666900
+DCM Dump Elements Complete
+Object type: ELEMENT LIST
+Object size: 96
+Group: 0008, Length:       96
+0008 1150       26 [1018    ] //    ID Referenced SOP Class UID//1.2.840.10008.5.1.4.1.1.4
+0008 1155       54 [1052    ] // ID Referenced SOP Instance UID//1.3.12.2.1107.5.2.43.166018.2020022414294073280966904
+DCM Dump Elements Complete
+Object type: ELEMENT LIST
+Object size: 96
+Group: 0008, Length:       96
+0008 1150       26 [1122    ] //    ID Referenced SOP Class UID//1.2.840.10008.5.1.4.1.1.4
+0008 1155       54 [1156    ] // ID Referenced SOP Instance UID//1.3.12.2.1107.5.2.43.166018.2020022414294073357666908
+DCM Dump Elements Complete
+DCM Dump SEQUENCE Complete}
+Group: 0010, Length:      102
+0010 0010        2 [1218    ] //               PAT Patient Name//PP
+0010 0020        8 [1228    ] //                 PAT Patient ID//m7pgiLro
+0010 0030        8 [1244    ] //          PAT Patient Birthdate//19770707
+0010 0040        2 [1260    ] //                PAT Patient Sex//O 
+0010 1010        4 [1270    ] //                PAT Patient Age//042Y
+0010 1020       10 [1282    ] //               PAT Patient Size//1.82880366
+0010 1030       12 [1300    ] //             PAT Patient Weight//81.646636986
+Group: 0018, Length:      390
+0018 0015        6 [1320    ] //         ACQ Body Part Examined//BRAIN 
+0018 0020        2 [1334    ] //          ACQ Scanning Sequence//GR
+0018 0021        2 [1344    ] //           ACQ Sequence Variant//SP
+0018 0022        0 [1354    ] //               ACQ Scan Options//
+0018 0023        2 [1362    ] //       ACQ MR Acquisition Type //3D
+0018 0024       10 [1372    ] //              ACQ Sequence Name//*fl3d2r_ns
+0018 0025        2 [1390    ] //                 ACQ Angio Flag//N 
+0018 0050        2 [1400    ] //            ACQ Slice Thickness//5 
+0018 0080        2 [1410    ] //            ACQ Repetition Time//30
+0018 0081        4 [1420    ] //                  ACQ Echo Time//7.5 
+0018 0083        2 [1432    ] //         ACQ Number of Averages//1 
+0018 0084       10 [1442    ] //          ACQ Imaging Frequency//123.190881
+0018 0085        2 [1460    ] //             ACQ Imaged Nucleus//1H
+0018 0086        2 [1470    ] //                ACQ Echo Number//1 
+0018 0087        2 [1480    ] //    ACQ Magnetic Field Strength//3 
+0018 0089        2 [1490    ] //ACQ Number of Phase Encoding Steps//71
+0018 0091        2 [1500    ] //          ACQ Echo Train Length//2 
+0018 0093        2 [1510    ] //           ACQ Percent Sampling//75
+0018 0094        4 [1520    ] //ACQ Percent Phase Field of View//100 
+0018 0095        4 [1532    ] //            ACQ Pixel Bandwidth//465 
+0018 1000        6 [1544    ] //       ACQ Device Serial Number//166018
+0018 1020       12 [1558    ] //           ACQ Software Version//syngo MR E11
+0018 1030       18 [1578    ] //              ACQ Protocol Name//swi_acq-qsm_run-01
+0018 1251        4 [1604    ] //          ACQ Transmitting Coil//Body
+0018 1310        8 [1616    ] //         ACQ Acquisition Matrix// 0 96 72 0
+0018 1312        4 [1632    ] //   ACQ Phase Encoding Direction//ROW 
+0018 1314        2 [1644    ] //                 ACQ Flip Angle//15
+0018 1315        2 [1654    ] //        ACQ Variable Flip Angle//N 
+0018 1316       16 [1664    ] //                        ACQ SAR//0.01321810032372
+0018 1318        2 [1688    ] //                      ACQ DB/DT//0 
+0018 5100        4 [1698    ] //           ACQ Patient Position//HFS 
+Group: 0019, Length:      206
+0019 0010       18 [1710    ] //                               //hex OB: (len 8)53 49 45 4d 45 4e 53 20 
+0019 1008       12 [1736    ] //                               //hex OB: (len 8)49 4d 41 47 45 20 4e 55 
+0019 1009        4 [1756    ] //                               //hex OB: (len 4)31 2e 30 20 
+0019 100b        6 [1768    ] //                               //hex OB: (len 6)35 30 37 33 30 20 
+0019 100f        4 [1782    ] //                               //hex OB: (len 4)46 61 73 74 
+0019 1011        4 [1794    ] //                               //hex OB: (len 4)59 65 73 20 
+0019 1012       12 [1806    ] //                               //hex OB: (len 8)00 00 00 00 00 00 00 00 
+0019 1013       12 [1826    ] //                               //hex OB: (len 8)00 00 00 00 00 00 00 00 
+0019 1014        6 [1846    ] //                               //hex OB: (len 6)30 5c 30 5c 30 20 
+0019 1015       24 [1860    ] //                               //hex OB: (len 8)9f df ff e0 86 8b 60 c0 
+0019 1017        2 [1892    ] //                               //hex OB: (len 2)31 20 
+0019 1018        6 [1902    ] //                               //hex OB: (len 6)31 31 32 30 30 20 
+Group: 0020, Length:      364
+0020 000d       58 [1916    ] //         REL Study Instance UID//1.3.12.2.1107.5.2.43.166018.30000020022413573689000000007
+0020 000e       60 [1982    ] //        REL Series Instance UID//1.3.12.2.1107.5.2.43.166018.2020022414335977313066924.0.0.0
+0020 0010        2 [2050    ] //                   REL Study ID//18
+0020 0011        2 [2060    ] //              REL Series Number//6 
+0020 0012        2 [2070    ] //         REL Acquisition Number//1 
+0020 0013        2 [2080    ] //            REL Instance Number//1 
+0020 0032       50 [2090    ] //     REL Image Position Patient//-132.36021470961\-122.89872884813\-123.3226890564 
+0020 0037       30 [2148    ] //REL Image Orientation (Patient)//1\4.897e-012\0\-4.897e-012\1\0
+0020 0052       54 [2186    ] //     REL Frame of Reference UID//1.3.12.2.1107.5.2.43.166018.1.20200224142823927.0.0.0
+0020 1040        0 [2248    ] //REL Position Reference Indicator//
+0020 1041       16 [2256    ] //             REL Slice Location//-123.3226890564 
+Group: 0028, Length:      186
+0028 0002        2 [2280    ] //          IMG Samples Per Pixel// 1
+0028 0004       12 [2290    ] // IMG Photometric Interpretation//MONOCHROME2 
+0028 0010        2 [2310    ] //                       IMG Rows// 192
+0028 0011        2 [2320    ] //                    IMG Columns// 192
+0028 0030       32 [2330    ] //              IMG Pixel Spacing//1.3333333730698\1.3333333730698 
+0028 0100        2 [2370    ] //             IMG Bits Allocated// 16
+0028 0101        2 [2380    ] //                IMG Bits Stored// 12
+0028 0102        2 [2390    ] //                   IMG High Bit// 11
+0028 0103        2 [2400    ] //       IMG Pixel Representation// 0
+0028 0106        2 [2410    ] // IMG Smallest Image Pixel Value// 0
+0028 0107        2 [2420    ] //  IMG Largest Image Pixel Value// 47
+0028 1050        2 [2430    ] //              IMG Window Center//41
+0028 1051        4 [2440    ] //               IMG Window Width//111 
+0028 1055        6 [2452    ] //IMG Window Center & Width Explanation//Algo1 
+Group: 0029, Length:   111806
+0029 0010       18 [2466    ] //                               //hex OB: (len 8)53 49 45 4d 45 4e 53 20 
+0029 0011       22 [2492    ] //                               //hex OB: (len 8)53 49 45 4d 45 4e 53 20 
+0029 1008       12 [2522    ] //                               //hex OB: (len 8)49 4d 41 47 45 20 4e 55 
+0029 1009        8 [2542    ] //                               //hex OB: (len 8)32 30 32 30 30 32 32 34 
+0029 1010    11116 [2558    ] //                               //hex OB: (len 8)53 56 31 30 04 03 02 01 
+0029 1018        2 [13682   ] //                               //hex OB: (len 2)4d 52 
+0029 1019        8 [13692   ] //                               //hex OB: (len 8)32 30 32 30 30 32 32 34 
+0029 1020   100544 [13708   ] //                               //hex OB: (len 8)53 56 31 30 04 03 02 01 
+0029 1160        4 [114260  ] //                               //hex OB: (len 4)63 6f 6d 20 
+Group: 0040, Length:       94
+0040 0244        8 [114272  ] //             PRC PPS Start Date//20200224
+0040 0245       14 [114288  ] //             PRC PPS Start Time//142550.012000 
+0040 0253       16 [114310  ] //                     PRC PPS ID//MR20200224142550
+0040 0254       16 [114334  ] //            PRC PPS Description//Development^SWI 
+0040 0280        0 [114358  ] //            PRC Comments on PPS//
+Group: 0051, Length:      230
+0051 0010       18 [114366  ] //                               //hex OB: (len 8)53 49 45 4d 45 4e 53 20 
+0051 1008       12 [114392  ] //                               //hex OB: (len 8)49 4d 41 47 45 20 4e 55 
+0051 1009        4 [114412  ] //                               //hex OB: (len 4)31 2e 30 20 
+0051 100a        8 [114424  ] //                               //hex OB: (len 8)54 41 20 35 30 2e 37 33 
+0051 100b       10 [114440  ] //                               //hex OB: (len 8)31 34 34 2a 31 39 32 73 
+0051 100c       12 [114458  ] //                               //hex OB: (len 8)46 6f 56 20 32 35 36 2a 
+0051 100d       10 [114478  ] //                               //hex OB: (len 8)53 50 20 46 31 32 33 2e 
+0051 100e        4 [114496  ] //                               //hex OB: (len 4)54 72 61 20 
+0051 100f        6 [114508  ] //                               //hex OB: (len 6)48 45 31 2d 34 20 
+0051 1011        2 [114522  ] //                               //hex OB: (len 2)70 32 
+0051 1012        4 [114532  ] //                               //hex OB: (len 4)54 50 20 30 
+0051 1013        4 [114544  ] //                               //hex OB: (len 4)2b 4c 50 48 
+0051 1016        8 [114556  ] //                               //hex OB: (len 8)70 32 20 4d 2f 4e 44 20 
+0051 1017        6 [114572  ] //                               //hex OB: (len 6)53 4c 20 35 2e 30 
+0051 1019        2 [114586  ] //                               //hex OB: (len 2)41 31 
+Group: 7fe0, Length:    73736
+7fe0 0010    73728 [114596  ] //                 PXL Pixel Data//Data on disk
+DCM Dump Elements Complete
+Pixel array offset = 114596 (bytes)
+Pixel array length = 73728 (bytes)
+
+Z-Direction Cosines: {0, 0, 1}
+Number of slices: 72
+Z FOV (in mm): 360
+Sequence Name: "%SiemensSeq%\gre""
